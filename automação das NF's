@@ -30,7 +30,7 @@ def codigo():
     #Abrir o site
 
     driver=webdriver.Chrome()
-    driver.get("http://mysaga.saganet.com.br/")
+    driver.get("******************")
     driver.maximize_window()
 
     time.sleep(1)
