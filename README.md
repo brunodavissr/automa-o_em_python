@@ -3,7 +3,7 @@
 Este é um projeto no qual eu fiz uma automação em python no meu antigo trabalho como aprendiz;
 
 Nele eu usei a ferramenta selenium do python para fazer as tarefas serem automatizadas,
-e apliquei a ferramente Tkinter para construir o ambiente de interação com o usúario;
+e apliquei a ferramenta Tkinter para construir o ambiente de interação com o usúario;
 
 Foi o meu primeiro projeto de programação no qual eu pude realmente fazer uma aplicação que faria
 sentido no dia a dia,além de ter sido meu primeiro projeto concreto de automação de processos;
